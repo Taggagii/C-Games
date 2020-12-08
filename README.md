@@ -34,6 +34,10 @@ Anyone harmed in the making of these games can contact me...somehow...and explai
 22. Finally, for each game, enter the _Game_Values.h_ file and find the `#include <SDL2/SDL.h>` line, change this to be `#include <SDL.h>`
 22. Run the code by pressing f5, _Debug_ > _Start Debugging_, or by clicking the green "play button" at the top.
 
+### Game Alterations
+#### Tetis
+The block will fail to fall, change the line `int speedUpInterval = 90000` to `int speedUpInterval = 1000`
+
 
 
 ###### *For mac*
