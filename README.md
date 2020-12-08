@@ -30,7 +30,8 @@ Anyone harmed in the making of these games can contact me...somehow...and explai
 20. Under the pop up _Additional Dependencies_ type:<br/>
                 SDL2.lib<br/>
                 SDl2main.lib<br/>
-21. Finally, naviate to your SDL folder from step 3, and enter into _lib/x86_, you should see a .dll file, copy this file into the same folder (in your Visual Studio project folder) you used in step 4
+21. Navigate to your SDL folder from step 3, and enter into _lib/x86_, you should see a .dll file, copy this file into the same folder (in your Visual Studio project folder) you used in step 4
+22. Finally, for each game, enter the _Game_Values.h_ file and find the `#include <SDL2/SDL.h>` line, change this to be `#include <SDL.h>`
 22. Run the code by pressing f5, _Debug_ > _Start Debugging_, or by clicking the green "play button" at the top.
 
 
