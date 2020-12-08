@@ -5,7 +5,8 @@ My goal in creating these graphical masterpieces was to further my understanding
 Anyone harmed in the making of these games can contact me...somehow...and explain their complaint directly. I'm sure I can help mitigate the pain I have caused.
 <p>&nbsp;</p>
 
-## How to run on a windows machine
+# How to make
+###### *For windows*
 ### Setting up SDL2
 1. Download [Visual Studios for Windows](https://visualstudio.microsoft.com/downloads/)
 2. Download [SDL2](https://www.libsdl.org/release/SDL2-devel-2.0.12-VC.zip) for Visual Studios (Visual C++) 
@@ -33,7 +34,7 @@ Anyone harmed in the making of these games can contact me...somehow...and explai
 22. Run the code by pressing f5, _Debug_ > _Start Debugging_, or by clicking the green "play button" at the top.
 
 
-# How to make
+
 ###### *For mac*
 #### REQUIREMENTS
 - [SDL2](https://www.libsdl.org/download-2.0.php)
