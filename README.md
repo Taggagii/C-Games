@@ -37,7 +37,10 @@ Anyone harmed in the making of these games can contact me...somehow...and explai
 ### Game Alterations
 #### Tetis
 The block will fail to fall, change the line `int speedUpInterval = 90000;` to `int speedUpInterval = 1000;`
+#### Connect Four
+Is broken. It uses includes which are only usable on Mac. This was a poor choice on my part and is the only game which seems not to run
 <p>&nbsp;</p>
+
 
 ###### *For mac*
 #### REQUIREMENTS
