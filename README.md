@@ -37,8 +37,6 @@ Anyone harmed in the making of these games can contact me...somehow...and explai
 ### Game Alterations
 #### Tetis
 The block will fail to fall, change the line `int speedUpInterval = 90000` to `int speedUpInterval = 1000`
-
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 
 ###### *For mac*
