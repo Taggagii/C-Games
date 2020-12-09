@@ -14,7 +14,7 @@ Anyone harmed in the making of these games can contact me...somehow...and explai
 4. Create a Visual Studios project and add all the game files into the folder named after your project (**make sure the files show up under _source files_ in your solution explorer or the following steps won't work**)
 5. Click on _project_, then, at the bottom, properties
 6. Now, in properties, select _VC++ directories_
-7. Select _include directories_, press the downward arrow, press <Edit...>
+7. Select _include directories_, press the downward arrow (on the far right), press <Edit...>
 8. Now, editing, you should see _Include Directories_ at the top of a window which has just appeared. Press the new file button (looks like a file with a plus sign) and then click the three dots next to the resulting line
 9. By pressing the three dots you have now entered into your file system. Navigate to your SDL folder which you saved in a safe place from step 3.
 10. Enter the SDL folder and select _include_. This is the folder you want
