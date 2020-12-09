@@ -26,7 +26,7 @@ Anyone harmed in the making of these games can contact me...somehow...and explai
 16. Find _Additional Library Directories_ and press the downward arrow, then <Edit...>
 17. Perform step 13. (you should end up with the _lib/x86_ path at the end of your selection)
 18. Under _linker_, locate _input_
-19. Press _Additional Dependencies_, click the three dots, then <Edit...>
+19. Press _Additional Dependencies_, click the downward arrow, then <Edit...>
 20. Under the pop up _Additional Dependencies_ type:<br/>
                 SDL2.lib<br/>
                 SDl2main.lib<br/>
