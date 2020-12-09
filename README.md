@@ -12,7 +12,7 @@ Anyone harmed in the making of these games can contact me...somehow...and explai
 2. Download [SDL2](https://www.libsdl.org/release/SDL2-devel-2.0.12-VC.zip) for Visual Studios (Visual C++) 
 3. Unzip the SDL2 file and put the resulting folder somewhere safe do **NOT** leave it in your downloads folder
 4. Create a Visual Studios project and add all the game files into the folder named after your project (**make sure the files show up under _source files_ in your solution explorer or the following steps won't work**)
-5. Click on _project_ then, at the bottom, properties
+5. Click on _project_, then, at the bottom, properties
 6. Now, in properties, select _VC++ directories_
 7. Select _include directories_, press the downward arrow, press <Edit...>
 8. Now, editing, you should see _Include Directories_ at the top of a window which has just appeared. Press the new file button (looks like a file with a plus sign) and then click the three dots next to the resulting line
