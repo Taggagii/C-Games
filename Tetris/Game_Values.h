@@ -80,6 +80,8 @@ int snap_to_grid(int input, int multiple, int base)
     value -= index;
     if (value > 0.5) return (index + 1) * multiple + base;
     return index * multiple + base;
+    // better solution that I can't implement because I don't have a running version of this on my machine
+    //return (int)(((number - base) / multiple) + 0.5) * multiple + base
 }
 
 int get_random_int_in_range(int lower, int upper)
